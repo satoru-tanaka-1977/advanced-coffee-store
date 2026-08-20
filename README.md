@@ -1,21 +1,36 @@
 # Advanced Coffee Store
 
-CodeJump 上級編の課題。1ページ構成のカフェ店舗サイト。
+CODEJUMP 上級編の「COFFEE」課題として制作しているWebサイトです。
+
+## 概要
+
+HTML・CSS・jQueryを使用して、カフェ店舗をテーマとしたWebサイトを制作しています。
+
+CODEJUMPの課題を通して、HTML・CSSのコーディングスキルを高めるとともに、パララックス演出やレスポンシブ対応、jQueryによるインタラクションについて学習しています。
+
+## 学習内容
+
+- HTMLによるWebサイトの構造設計
+- CSSによるレイアウト・デザイン
+- Flexboxを使用したレイアウト
+- 疑似要素（::before / ::after）を使用した装飾
+- 背景固定によるパララップス演出
+- jQueryによるスムーススクロール
+- レスポンシブ対応
+- Git / GitHubによるバージョン管理
+
+## 使用技術
+
+- HTML5
+- CSS3
+- JavaScript（jQuery）
+- Git
+- GitHub
 
 ## Demo
 
-（公開URLをここに貼る）
+https://satoru-tanaka-1977.github.io/advanced-coffee-store/
 
-## 構成
+## 制作状況
 
-- `index.html`
-- `css/style.css`
-- `js/main.js`（jQueryによるスムーススクロール）
-- `img/`
-
-## 主な要素
-
-- ヘッダー：メインビジュアル（画面いっぱい）＋ナビゲーション
-- Menu / About / Location の3セクション（`fixed-bg`で背景固定のパララックス演出）
-- Googleマップ埋め込み（Location）
-- レスポンシブ対応（767px以下）
+制作中
