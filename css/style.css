@@ -244,3 +244,42 @@ footer
   text-align: center;
   padding: 10px 0;
 }
+
+/* -------------
+responsive 
+---------------------*/
+
+@media screen and (max-width: 767px) {
+.wrapper {
+  padding: 30px 16px 60px;
+}
+.item-title {
+  font-size: 1.25rem;
+  margin-bottom: 25px;
+}
+.fixed-bg {
+  background-attachment: scroll;
+  height: 94px;
+}
+.sec-title {
+  font-size: 2rem;
+  top: 26%;
+}
+.menu-content {
+  flex-direction: column;
+}
+#menu .menu-item {
+  width: 100%;
+padding: 0;
+}
+#menu .menu-item:first-child {
+  border-right: none;
+}
+
+#about ul {
+  flex-direction: column;
+}
+#about li {
+  width: 100%;
+}
+}
