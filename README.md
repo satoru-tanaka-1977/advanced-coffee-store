@@ -29,7 +29,7 @@ CODEJUMPの課題を通して、HTML・CSSのコーディングスキルを高�
 
 ## Demo
 
-https://satoru-tanaka-1977.github.io/advanced-coffee-store/
+https://satoru-tanaka-1977.github.io/codejump-advanced-coffee-store/
 
 ## 制作状況
 
